@@ -1,0 +1,8 @@
+{
+  "recommendations": [
+    "redhat.vscode-yaml",
+    "usernamehw.errorlens",
+    "yzhang.markdown-all-in-one",
+    "christian-kohler.path-intellisense"
+  ]
+}
